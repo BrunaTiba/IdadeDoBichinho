@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Idade Do Bichinho</string>
+    <string name="descobrirIdade">Descobrir Idade</string>
+    <string name="voltar">Voltar</string>
+</resources>
